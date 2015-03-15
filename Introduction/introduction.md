@@ -1,4 +1,4 @@
-[Back to Introduction Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction)
+[Back : Introduction Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction)
 # Java 
 Java is an object oriented programming language developed by James gosling at Sun Mirco Systems (now merged with Oracle Corporation).
 
@@ -36,3 +36,5 @@ Java is an object oriented programming language developed by James gosling at Su
  2. Memory allocation for arrays, strings and objects is done during the run time (**dynamic**).
  3. Java is automatic garbage collector.
  4. A Java program is a collection of classes. A Java program can run on any platform(OS).  
+ 
+ [Back : Introduction Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) ||  [Next: Getting started)](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md)
