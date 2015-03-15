@@ -8,3 +8,4 @@ This section deals with basic details of Java and Object oriented programming.
 2. [Getting started] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md)
 3. [Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
 4. [Java Basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md)
+5. [Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md)

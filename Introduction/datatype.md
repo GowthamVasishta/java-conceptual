@@ -32,14 +32,19 @@ Consider below source code:
     class Sample {
 	    int m; // data member
 	    void xxx() {
+		
 		    int n; // local variable
+			
 		    // local variables are not set to default values
 		    System.out.println(n); // leads to error
 		}
 		public static void main(String[] args) {
+		
 			Sample s = new Sample();
+			
 			// prints the default value for data members
 			System.out.println("m = " + s.m); // m = 0
+			
 			s.xxx();
 		}
 	}

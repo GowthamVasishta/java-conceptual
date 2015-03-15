@@ -1,4 +1,4 @@
-[back : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[back : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md)
 
 # Java Basics
 ### Variables
@@ -25,7 +25,7 @@ some invalid identifiers
  - 123xyz (usage of digits)
  - while  (usage of keyword)
  
-[back : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[back : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md)
 
 
 
