@@ -42,6 +42,10 @@ when `n` is equal to `6`, then it gets incremented to `7` and then `continue` fo
 
 ### Labelled break and continue
 
+Labelled break and continue statements can be used to come out of multiple at a time. In below example, `x` is label.
+
+> A label we can have only loop statements.
+
 ![Labelled break and continue](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/label.png)
 
 In the next page, we will learn Java object oriented programming.
