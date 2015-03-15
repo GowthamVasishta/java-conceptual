@@ -27,7 +27,7 @@ To run this program
     sum = 60
 we also pass the arguments to the program (known as **command line arguments**).
 
-The values 20 and 40 are stored in `args[]` array. So `args[0] = 20` and `args[1] = 40`. we assign this values to `a` and `b`. Then we add them and assign it to variable `sum`. In next step, we print the value of `sum` using the function `System.out.println()` method. 
+The values 20 and 40 are stored in `args[]` array. So `args[0] = '20'` and `args[1] = '40'`. we assign this values to `a` and `b`. Then we add them and assign it to variable `sum`. In next step, we print the value of `sum` using the function `System.out.println()` method. 
 
 Since you understood the basics of the program, I would like to have a look at the  `Integer.parseInt` method : 
 
