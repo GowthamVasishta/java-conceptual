@@ -13,4 +13,4 @@ This section deals with basic details of Java and Object oriented programming.
 7. [Operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/operators.md)
 8. [Scanner class] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/scanner.md)
 9. [Loops] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/loops.md)
-10.[Break and continue keywords] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md)
+10. [Break and continue keywords] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md)
