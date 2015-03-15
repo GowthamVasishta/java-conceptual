@@ -1,4 +1,4 @@
-[Back: Getting started](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back: Getting started](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Java Basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md)
 
 ## Understanding program
 > If you are already familiar with a basic Java program, you can comfortably skip it.
@@ -36,4 +36,4 @@ Since you understood the basics of the program, I would like to have a look at t
  This method parses the string arguments as signed integer. If you see `args[]` is of data type string. So our arguments `20` and `40` are strings. So we use the method `Integer.parseInt` to convert the string `20` to decimal integer `20`. 
 
 
-[Back: Getting started](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back: Getting started](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Java basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md)
