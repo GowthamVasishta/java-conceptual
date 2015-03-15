@@ -1,4 +1,4 @@
-[Back : Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/scanner.md)
+[Back : Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Scanner class and loops] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/scanner.md)
 
 # operators
 
