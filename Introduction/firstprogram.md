@@ -5,11 +5,10 @@
 
 Let us write a Java program using **command line arguments**. Let's say we want to **add two numbers**. 
 
+
 ```java
-     /**
-      * understanding a java program and use of command line arguments
-      * /
-     
+    //understanding a java program and use of command line arguments
+    
      class Sum {
 	     public static void main(Strings[] args) {
 		     int a = Integer.parseInt(args[0]);
