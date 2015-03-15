@@ -1,7 +1,9 @@
 [Back: Getting started](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/started.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
 
 ## Understanding program
-If you are already familiar with a basic Java program, you can comfortably skip it. Let us write a Java program using **command line arguments**. Let's say we want to **add two numbers**. 
+> If you are already familiar with a basic Java program, you can comfortably skip it.
+
+Let us write a Java program using **command line arguments**. Let's say we want to **add two numbers**. 
 
      /**
       * understanding a java program and use of command line arguments
