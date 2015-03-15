@@ -49,6 +49,8 @@ Now , write a simple java program which has two classes `Employee` and `Demo`.
 `Employee` has three data members `empId, empName, empSalary`.  `Employee` has two methods `setValue` and `display`. `setValue` has three arguments `empId, empName, empSalary`. Then assign the values of arguments to respective data members. ( Hint: use `this` keyword). `display` method displays the three data members. 
 `Demo` has `main()` method.Create a object of the class `Employee` and call the function `setValue` and `display`.
 
+solution : [oop.java](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/oop.java)
+
 In the next page we will learn about `this` keyword.
 
 [Back : break] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : This keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/this.md)
