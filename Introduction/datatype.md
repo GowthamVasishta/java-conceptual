@@ -1,4 +1,4 @@
-[Back : Java basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back : Java basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md)
 
 # Java basics
 ## Data types
@@ -64,4 +64,4 @@ In the above program, `m` is data member of the class `Sample` and `n` is local 
 
 In next page, we will learn about **Type casting**.
 
-[Back : Java basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back : Java basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md)

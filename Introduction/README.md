@@ -9,3 +9,4 @@ This section deals with basic details of Java and Object oriented programming.
 3. [Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
 4. [Java Basics] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/basics.md)
 5. [Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md)
+6. [Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md)
