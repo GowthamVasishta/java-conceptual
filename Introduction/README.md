@@ -11,3 +11,4 @@ This section deals with basic details of Java and Object oriented programming.
 5. [Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md)
 6. [Type casting] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/typecasting.md)
 7. [Operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/operators.md)
+8. [Scanner class] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/scanner.md)
