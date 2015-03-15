@@ -1,4 +1,4 @@
-[Back: Introduction] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/introduction.md)
+[Back: Introduction] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/introduction.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction)
 # Getting started
 Since this is not a tutorial I will not touch the installation of java but I thought it would be useful if I mention few points on compiling a program.
 
@@ -33,6 +33,6 @@ so, to run program from **A class** main() method
 And, to run a program from **B class** main() method
 
     >java B
-This command runs the .class files. So every time you change something in your source code, make sure that you recompile it before you run the program. Recompiling makes our changes reflect in the respective '.class' files.
+This command runs the .class files. So every time you change something in your source code, make sure that you recompile it before you run the program. Recompiling reflect the changes in the respective '.class' files.
  
-[Introduction] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/introduction.md) |
+[Introduction] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/introduction.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction)
