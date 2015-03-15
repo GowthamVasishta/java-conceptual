@@ -91,7 +91,7 @@ Above example code has condition `n1 > n2` which is true. So the value of `n1` i
  1. pre
  2. post
 
-pre        | post
+pre-increment | post-increment
 -----------|------
  `x=5;`    |`x=5;`
  `++x;`    |`x++;`
