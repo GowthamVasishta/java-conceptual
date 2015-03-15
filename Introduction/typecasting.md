@@ -13,7 +13,7 @@ Implicit     | Explicit
 
 ### Casting chart
 
-![type casting char](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/casting.png)
+![type casting char](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/casting.jpg)
 
 In the next page, we will learn 'operators in java'.
 
