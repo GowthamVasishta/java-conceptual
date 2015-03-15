@@ -6,7 +6,7 @@ Before we move onto loops, let us have a look at scanner as we will use it in su
  1. Scanner class is used to read values from keyboard during program execution.
  2. Scanner class is added in Java 5 version
  3. Scanner class is present in java.util package. So for importing this package : `import java.util.scanner;`.
- 4. Creating scanner class object : `scanner in = new scanner(system.in);`.
+ 4. Creating scanner class object : `Scanner in = new Scanner(system.in);`.
 
 ### Methods of scanner class
 
