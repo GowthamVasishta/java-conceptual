@@ -5,6 +5,7 @@ Since this is not a tutorial, I will not touch the installation of java but I th
 ### compiling
 Suppose I write the following program, in a file 'X.java'
 
+```java
     class A {
 	    public static void main(String[] args) {
 		    //some code
@@ -15,6 +16,8 @@ Suppose I write the following program, in a file 'X.java'
 			//some code
 		}
 	}
+```
+
 To compile it, type the command 
 
     >javac X.java

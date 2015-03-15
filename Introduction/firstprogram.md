@@ -5,6 +5,7 @@
 
 Let us write a Java program using **command line arguments**. Let's say we want to **add two numbers**. 
 
+```java
      /**
       * understanding a java program and use of command line arguments
       * /
@@ -17,6 +18,8 @@ Let us write a Java program using **command line arguments**. Let's say we want 
 		     System.out.println("sum = " + sum);
 		 }
      }
+```
+
 To compile this program
 
     >javac Sum.java
