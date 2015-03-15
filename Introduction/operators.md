@@ -98,7 +98,7 @@ pre-increment | post-increment
  `print x;`| `print x;`
  o/p: 6    | o/p: 6
 
-Now let assign the pre and post increment values to another and print both variables.
+Now let assign the pre and post increment values to another variable and print both variables.
 
 pre increment     | post increment
 ------------------|----------------
