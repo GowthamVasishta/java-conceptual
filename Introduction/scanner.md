@@ -23,5 +23,6 @@ double d = in.nextDouble();
 String s  = in.next();
 ```
 Now , I would like you to write a program using `scanner` class. In the next page we will write a simple program using `scanner` class and move on to loops.
+A simple program using scanner class. ( [scanner.java](https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/scanner.java) )
 
 [Back : operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/operators.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Loops] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/loops.md)
