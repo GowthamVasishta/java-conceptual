@@ -1,3 +1,4 @@
+[Back to Introduction Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction)
 # Java 
 Java is an object oriented programming language developed by James gosling at Sun Mirco Systems (now merged with Oracle Corporation).
 
@@ -29,7 +30,7 @@ Java is an object oriented programming language developed by James gosling at Su
 9. Dynamic
 10. Distributed
 
-### Few points to ponder
+### Few points regarding features
 
  1. A thread is a light weight process under execution, within in a process. And multi threading is used to increase the performance of a application.
  2. Memory allocation for arrays, strings and objects is done during the run time (**dynamic**).
