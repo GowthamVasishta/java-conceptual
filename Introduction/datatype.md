@@ -29,6 +29,7 @@ boolean       | 1 byte	      | false
 
 Consider below source code:
 
+```java
     class Sample {
 	    int m; // data member
 	    void xxx() {
@@ -48,6 +49,8 @@ Consider below source code:
 			s.xxx();
 		}
 	}
+```
+
 In the above program, `m` is data member of the class `Sample` and `n` is local variable of the method `xxx()`. So since `m` is not initialized, value of `m` is set to default value i.e. `0`. Whereas `n` is local variable, no default value is assigned to it. So, printing `n` leads to error.
 
 > **TIP**: Always initialize your local variables !
