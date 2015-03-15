@@ -1,4 +1,4 @@
-[Back : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/operators.md)
 
 # Java basics
 
@@ -17,4 +17,4 @@ Implicit     | Explicit
 
 In the next page, we will learn 'operators in java'.
 
-[Back : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Understand program] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/firstprogram.md)
+[Back : Data types] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/datatype.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Operators] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/operators.md)
