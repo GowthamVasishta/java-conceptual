@@ -131,6 +131,6 @@ class Demo {
 
 ```
  
- Now here your answer would be valid ! i.e. `i=0 j=0 k=50`.
+ Now here your answer would be valid ! i.e. `i=0 j=0 k=50`. Find the code here . ([inheritcon.java](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop/inheritcon.java))
  
  [Back : Super keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/super.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) 
