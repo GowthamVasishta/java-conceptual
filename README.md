@@ -24,3 +24,5 @@ This repository contains basic yet conceptual insights on Java programming langu
 	- [Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)
 	- [Polymorphism] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/polymorphism.md)
 	- [Super Keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/super.md)
+	- [Constructors in inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritcon.md)
+
