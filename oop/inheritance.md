@@ -45,7 +45,7 @@ class base {
 	int j;
 
 	// Since we haven't included a constructor
-	// a default constructor is implicitly inserted during runtime.
+	// a default constructor is implicitly inserted during compile time.
 
 	//methods
 	void input(int i, int j) {
