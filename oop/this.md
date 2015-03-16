@@ -1,4 +1,4 @@
-[Back : Java OOP] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/oop.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Constuctor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
+[Back : Java OOP] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/oop.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : Constuctor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
 
 # This reference
 
@@ -44,4 +44,4 @@ class Demo {
 
 In the above program, both data members and arguments of the method `setValue()` were same. So, in order to differentiate between data members of the class and arguments of the method, we used `this` keyword.
 
-[Back : Java OOP] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/oop.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Constuctor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
+[Back : Java OOP] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/oop.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : Constuctor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)

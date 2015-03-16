@@ -7,4 +7,4 @@ This section deals with Java OOP
 3. [Constuctor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
 4. [Static Keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/static.md)
 5. [Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)
-
+6. [Polymorphism] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/polymorphism.md)

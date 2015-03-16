@@ -1,4 +1,4 @@
-[Back : Construtor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)
+[Back : Construtor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)
 
 # Static keyword
 
@@ -63,4 +63,4 @@ In the `static void yyy()` method, `m = 30;` will lead to error because a n `sta
 
 In next page we will learn about , inheritance.
 
-[Back : Construtor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)
+[Back : Construtor] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : Inheritance] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/inheritance.md)

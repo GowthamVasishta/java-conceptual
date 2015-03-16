@@ -1,4 +1,4 @@
-[Back : break] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : This keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/this.md)
+[Back : break] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : This keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/this.md)
 
 # Java object oriented programming (OOP)
 
@@ -53,4 +53,4 @@ solution : [oop.java](https://github.com/GowthamVasishta/java-conceptual/blob/ma
 
 In the next page we will learn about `this` keyword.
 
-[Back : break] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/Introduction) | [Next : This keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/this.md)
+[Back : break] (https://github.com/GowthamVasishta/java-conceptual/blob/master/Introduction/break.md) | [Index](https://github.com/GowthamVasishta/java-conceptual/tree/master/oop) | [Next : This keyword] (https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/this.md)
