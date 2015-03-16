@@ -59,7 +59,7 @@ class Demo {
 }
 ```
 
-2. If a class contain parameterized constructor, then it is responsibility  of the programmer to create default constructor.
+2. If a class contain parameterized constructor, then it is responsibility  of the programmer to create default constructor. If a parameterized constructor is present, then default constructor is not added implicitly. 
 ```java
 class Demo {
 	
