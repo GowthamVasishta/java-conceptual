@@ -6,7 +6,7 @@ Before moving forward, I would like you to refer this concepts once :
  1. [Constructors](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
  2. [Super keyword](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/super.md)
 
-Alright  . .  .  instead of any theoretical explanations , let dive directly into code ! Have a look at the below program, and try to find out " what will the function `d.display();` print in below code.
+Alright  . .  .  instead of any theoretical explanations , let us dive into code ! Have a look at the below program, and try to find out " what will the function `d.display();` print in below code.
 
 ```java
 // Constructor in inheritance
@@ -65,10 +65,10 @@ class Demo {
 If your answer is `i=0 j=0 k=50`, then a nice try !! . ..  but actually this **program will lead to compile time error**.  Let me tell you the reason:
 
  1. As I have already mentioned in [Super keyword](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/super.md) that `Super()` is first statement added to every constructor implicitly. 
- 2. So, `Super();` is added to `Derived()` constructor implicitly, which in turns class the default constructor of Base class i.e. `Base()`.
+ 2. So, `Super();` is added to `Derived()` constructor implicitly, which in turns calls the default constructor of `Base` class i.e. `Base()`.
  3. But we know that whenever we mention a parameterized constructor then default constructor is not added implicilty. ( see [Constructors](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md) )
  4. In `Base` class, a parameterized constructor `Base(int i, int j)` is present , so no default constructor `Base()` will be added implicitly. 
- 5. Therefore, whenever `Super();` of `Derived()` constructor call the `Base()` default constructor , it leads to compile time error . (Since default constructor `Base()` is not present !
+ 5. Therefore, whenever `Super();` of `Derived()` constructor call the `Base()` default constructor , it leads to compile time error . (Since default constructor `Base()` is not present !)
  6. So, it is advisable to add default constructor to the class, even when a parameterized constructor is present.
 
 Alright , now lets see the right code !
