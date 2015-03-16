@@ -6,7 +6,7 @@ Before moving forward, I would like you to refer this concepts once :
  1. [Constructors](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/constructor.md)
  2. [Super keyword](https://github.com/GowthamVasishta/java-conceptual/blob/master/oop/super.md)
 
-Alright  . .  .  instead of any theoretical explanations , let us dive into code ! Have a look at the below program, and try to find out " what will the function `d.display();` print in below code.
+Alright  . .  .  instead of any theoretical explanations , let us dive into code ! Have a look at the below program, and try to find out " what will the function `d.display();` print ?".
 
 ```java
 // Constructor in inheritance
