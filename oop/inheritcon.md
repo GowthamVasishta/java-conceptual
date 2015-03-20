@@ -30,7 +30,7 @@ class Base {
 
 }
 
-class Derived {
+class Derived extends Base {
 	
 	int k;
 	
@@ -97,7 +97,7 @@ class Base {
 
 }
 
-class Derived {
+class Derived extends Base {
 	
 	int k;
 	
