@@ -44,7 +44,7 @@ class Derived extends Base {
 	}
 	
 	void display() { //overridden method
-		Super.display();
+		super.display();
 		System.out.println("k="+k);
 	}
 	
@@ -111,7 +111,7 @@ class Derived extends Base {
 	}
 	
 	void display() { //overridden method
-		Super.display();
+		super.display();
 		System.out.println("k="+k);
 	}
 	
