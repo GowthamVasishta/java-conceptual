@@ -2,7 +2,7 @@
 
 # Java Basics
 ### Variables
-It is an identifies which allocates some space in memory  and the values in the memory changes during execution.
+It is an identifier which allocates some space in memory  and the values in the memory changes during execution.
 
 #### Rules for identifier (Variable / method / class )
 
